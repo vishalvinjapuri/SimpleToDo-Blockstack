@@ -1,4 +1,4 @@
-# Blockstack Todo App
+# Tasks to complete
 
 > A simple Vue.js Todo app built for the decentralized web.
 

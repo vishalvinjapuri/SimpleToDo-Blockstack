@@ -4,7 +4,7 @@
     <dashboard v-if="user" :user="user"></dashboard>
 
     <small class="creds">
-      Source code on <a href="https://github.com/blockstack/blockstack-todos" target="_blank">Github</a>
+      Built by <a href="https://github.com/vishalvinjapuri" target="_blank">@vishalvinjapuri</a>
     </small>
   </div>
 </template>

@@ -1,12 +1,16 @@
 <template>
   <div class="hello">
     <div>
-      <h1>Blockstack Todo</h1>
-      <p>A decentralized Todo app built on <a href="https://blockstack.org" target="_blank">Blockstack</a></p>
+    <center>
+      <h1>Simple To-Do List</h1>
+      <p>A decentralized To-do list application built on the <a href="https://blockstack.org" target="_blank">Blockstack platform</a></p>
       <button class="btn btn-default bg-white" @click.prevent="signIn">Sign In With Blockstack</button>
+      </center>
     </div>
   </div>
 </template>
+
+
 
 <script>
 import { userSession } from '../userSession'

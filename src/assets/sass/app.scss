@@ -17,7 +17,7 @@ html, body, #app {
 
 .btn {
   &.btn-default {
-    color: $purple-110
+    color: $label-black
   }
 }
 
@@ -29,7 +29,7 @@ html, body, #app {
 }
 
 .list-group-item {
-  color: $purple-100;
+  color: $label-black;
 }
 
 .page-header {
